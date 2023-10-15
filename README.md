@@ -2,11 +2,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
-<!--
-**darkmyrrh/darkmyrrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmyrrh)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 В настоящее время изучаю React, планирую освоить Vue
-- 
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkmyrrh)](https://git.io/streak-stats)
+
